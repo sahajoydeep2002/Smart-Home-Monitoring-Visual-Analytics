@@ -10,7 +10,7 @@ My project aims to help a common user in viewing and analyzing data related to t
 * [Javascript] 
 * [D3.js]
 * [Bootstrap]
-* 
+
 ### Visualizations and functionalities
 The graphs used to represent the data are shown visually. More details can be obtained from the paper (based on the corresponding chapter).
 
