@@ -1,0 +1,41 @@
+      svg {
+        width: 100%;
+        height: 100%;
+      }
+      path.slice{
+        stroke-width:2px;
+      }
+      polyline{
+        opacity: .3;
+        stroke: black;
+        stroke-width: 2px;
+        fill: none;
+      }
+      rect.bordered {
+        stroke: #E6E6E6;
+        stroke-width:2px;   
+      }
+      text.mono {
+        font-size: 9pt;
+        font-family: Consolas, courier;
+        fill: #aaa;
+      }
+      text.axis-workweek {
+        fill: #000;
+      }
+      text.axis-worktime {
+        fill: #000;
+      }
+      .bar { fill: steelblue; cursor: pointer; }
+
+      .line {
+        fill: none;
+        stroke: steelblue;
+        stroke-width: 1.5px;
+      }
+      .zoom {
+        cursor: move;
+        fill: none;
+        pointer-events: all;
+      }
+
